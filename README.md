@@ -10,6 +10,6 @@ A simple CHIP8 emulator in C++ ( std17 ) and SFML
 - ROMS ( some Chip8 games )
 
 ## Usage
-Esc - quit
-F1 - reset
-F2 - load next rom
+- Esc - quit
+- F1 - reset
+- F2 - load next rom
